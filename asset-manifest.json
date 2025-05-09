@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nike_admin/static/css/main.f296c3c1.css",
+    "main.js": "/nike_admin/static/js/main.6caededb.js",
+    "index.html": "/nike_admin/index.html",
+    "main.f296c3c1.css.map": "/nike_admin/static/css/main.f296c3c1.css.map",
+    "main.6caededb.js.map": "/nike_admin/static/js/main.6caededb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f296c3c1.css",
+    "static/js/main.6caededb.js"
+  ]
+}
